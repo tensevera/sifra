@@ -1,0 +1,6 @@
+
+budes si chtit for cyklem projit text
+pro kazdou iteraci (pismeno, krok for cyklu) si prevedes pomoci funkce ord() dane
+pismeno na cislo, ke kteremu prictes posun
+to cele pak pomoci funkce chr() zpet prevedes na prislusny znak
+A vysledek teto funkce pak prictes k vystupu pomoci +=

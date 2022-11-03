@@ -1,0 +1,7 @@
+Budes chtit projit text na vystupu a posunout kazde pismeno.
+
+To znamena pro kazde pismeno ve vstupu:
+	1) si ho prevedes na cislo
+	2) posunes ho o tolik kolik potrebujes
+	3) prevedes ho zpet na znak
+	4) vysledek pripojis k vystupu
